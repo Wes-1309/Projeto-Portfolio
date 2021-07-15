@@ -10,7 +10,7 @@ O controle das tarefas desse projeto será realizado no Github
 :package: Nova funcionalidade
 :up: Atualização
 :beetle: Correção de bug
-:checkered: Release
+:white_check_mark: Release
 
 ### Sites de referência
 
