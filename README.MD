@@ -14,9 +14,10 @@ O controle das tarefas desse projeto será realizado no Github
 
 ### Sites de referência
 
-https://favicon.io/favicon-generator/
-https://cdnjs.com/libraries/font-awesome
-https://unsplash.com/photos/LJ9KY8pIH3E
-https://uigradients.com/#Blush
-https://www.webfx.com/tools/emoji-cheat-sheet/
+https://favicon.io/favicon-generator/</br>
+https://cdnjs.com/libraries/font-awesome</br>
+https://unsplash.com/photos/LJ9KY8pIH3E</br>
+https://uigradients.com/#Blush</br>
+https://www.webfx.com/tools/emoji-cheat-sheet/</br>
+https://fontawesome.com/</br>
 
