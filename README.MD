@@ -21,3 +21,5 @@ https://uigradients.com/#Blush</br>
 https://www.webfx.com/tools/emoji-cheat-sheet/</br>
 https://fontawesome.com/</br>
 
+https://www.youtube.com/watch?v=ECV5u9IvjZM
+https://github.com/joaocarloslima/portifolio/blob/master/style.css
